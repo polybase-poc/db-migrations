@@ -1,0 +1,5 @@
+# 002_create_permissions_table.xml
+# Liquibase migrations for RBAC tables
+# Generated: 2026-04-09
+
+# TODO: Add implementation
