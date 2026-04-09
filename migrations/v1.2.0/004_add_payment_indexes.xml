@@ -1,0 +1,5 @@
+# 004_add_payment_indexes.xml
+# Liquibase migrations for payment tables
+# Generated: 2026-04-09
+
+# TODO: Add implementation

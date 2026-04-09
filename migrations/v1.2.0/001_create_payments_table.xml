@@ -1,0 +1,5 @@
+# 001_create_payments_table.xml
+# Liquibase migrations for payment tables
+# Generated: 2026-04-09
+
+# TODO: Add implementation
