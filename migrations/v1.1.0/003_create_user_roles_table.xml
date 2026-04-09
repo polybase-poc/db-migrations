@@ -1,0 +1,5 @@
+# 003_create_user_roles_table.xml
+# Liquibase migrations for RBAC tables
+# Generated: 2026-04-09
+
+# TODO: Add implementation
