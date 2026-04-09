@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "projectName": "db-migrations",
+  "organization": "polybase-poc",
+  "team": "data-platform",
+  "rules": [
+    ".claude/rules/security.md",
+    ".claude/rules/code-quality.md",
+    ".claude/rules/git-workflow.md"
+  ],
+  "statusline": {
+    "enabled": true,
+    "format": "[db-migrations] {branch} {status}"
+  },
+  "integrations": {
+    "github": {
+      "enabled": true,
+      "org": "polybase-poc",
+      "repo": "db-migrations"
+    }
+  }
+}
