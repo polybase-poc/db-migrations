@@ -1,0 +1,9 @@
+# CODEOWNERS for db-migrations
+# Template: single-team
+
+# Default owners for everything
+*       @polybase-poc/data-platform
+
+# CI/CD and infrastructure changes require platform team review
+/.github/**              @polybase-poc/data-platform @polybase-poc/platform-sre
+/Dockerfile              @polybase-poc/platform-sre
